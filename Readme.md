@@ -1,3 +1,3 @@
 # Get Pokemon By Type
 
-[View](image.png)
+![View](image.png)
